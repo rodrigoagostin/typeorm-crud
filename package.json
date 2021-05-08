@@ -18,7 +18,7 @@
     "http-status-codes": "^1.4.0",
     "pg": "^8.2.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.0",
